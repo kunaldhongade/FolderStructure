@@ -5,7 +5,3 @@ The `config` folder in this Node.js project contains configuration files that ar
 ## Database Configuration
 
 To configure the database connection using AWS RDS, you can create a `database.js` file in the config folder. Here's an example of how it can be structured:
-
-```javascript
-
-```
