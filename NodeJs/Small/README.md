@@ -1,10 +1,8 @@
-For an simple application with database routes
+## Structure of a Simple Application with Database Routes
 
-index.js will be our starting point
+In a simple application with database routes, the starting point is usually the `index.js` file. It is recommended to have a basic template and a `.env` file in every project.
 
-every project should have basic template and .env compulsory
-
-although if you are just starting it does not matter how you structure your code but it really matters if you want to show and impress your recruiter
+While the initial structure of your code may not be critical when starting a project, it becomes important if you want to showcase and impress potential recruiters.
 
 ## Why do we need a README file in a small project?
 
