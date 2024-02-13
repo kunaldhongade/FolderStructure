@@ -2,22 +2,19 @@
 # for now im just comment all of them but for real project you should write the name of the folders or files that you want to ignore
 
 
-# # Node.js
-# node_modules/
+# Node.js
+node_modules/
 
-# # Logs
-# logs/
+# Logs
+logs/
 
-# # Build output
-# dist/
+# Build output
+dist/
 
 # # Environment variables
 # .env
 
-# # IDE files
-# .vscode/
-# .idea/
+# IDE files
+.vscode/
+.idea/
 
-# # Dependency lock files
-# package-lock.json
-# yarn.lock
