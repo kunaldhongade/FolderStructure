@@ -2,8 +2,8 @@
 # for now im just comment all of them but for real project you should write the name of the folders or files that you want to ignore
 
 
-# # Node.js
-# node_modules/
+# Node.js
+node_modules/
 
 # Logs
 logs/
